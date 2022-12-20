@@ -1,3 +1,18 @@
+#Name and Live Link:
+
+Name: Ranking-Animation
+Live Link: https://ranking-animation.netlify.app/
+
+# Project Description:
+This is a simple react Project Using Rest API with Rechart API. 
+# Feature Of this Project:
+
+ - Rechart Implemented by Using Rechart API
+ - Custom Tooltip Add on Rechart
+ - Using Rest API with Query
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
