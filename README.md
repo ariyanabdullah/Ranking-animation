@@ -1,4 +1,4 @@
-#Name and Live Link:
+# Name and Live Link:
 
 Name: Ranking-Animation
 Live Link: https://ranking-animation.netlify.app/
