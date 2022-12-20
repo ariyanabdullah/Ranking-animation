@@ -1,0 +1,66 @@
+@media (max-width: 460px) {
+    .wXs {
+       
+        display: grid;
+        justify-items: center;
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        gap: 46px ;
+
+    }
+}
+
+@media only screen and (min-width: 461px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 30px  ;
+        place-content: center;
+    }
+}
+@media only screen and (min-width: 630px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        place-content: center;
+    }
+}
+@media only screen and (min-width: 1024px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        place-content: center;
+    }
+}
+@media only screen and (min-width: 1110px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        
+    }
+}
+@media only screen and (min-width:1280px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+        
+      
+    }
+}
+@media only screen and (min-width:1536px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(7, minmax(0, 1fr));
+    }
+}
+@media only screen and (min-width:1792px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(8, minmax(0, 1fr));
+    }
+}
+@media only screen and (min-width:2222px) {
+    .wXs {
+        display: grid;
+        grid-template-columns: repeat(10, minmax(0, 1fr));
+    }
+}
