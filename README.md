@@ -1,7 +1,7 @@
 # Name and Live Link:
 
-Name: Ranking-Animation
-Live Link: https://ranking-animation.netlify.app/
+Name: Ranking-Animation -
+- Live Link: https://ranking-animation.netlify.app/
 
 # Project Description:
 This is a simple react Project Using Rest API with Rechart API. 
